@@ -1,4 +1,1 @@
-Quick start:
-
-$ npm install
-$ npm start
+## Chrome extention to save links for future leads
